@@ -18,7 +18,7 @@
 		"storage"
     ],
 	"browser_action": {
-		"default_icon": "insignia.png",
+		"default_icon": "insignia.svg",
 		"default_popup": "popup.html"
 	}
 }
